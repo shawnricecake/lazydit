@@ -16,10 +16,10 @@ Then run by `sh run-lazy-learning-imagenet.sh`.
 
 ### Citation
 ```bazaar
-@article{shen2024lazydit,
-  title={Lazydit: Lazy learning for the acceleration of diffusion transformers},
-  author={Shen, Xuan and Song, Zhao and Zhou, Yufa and Chen, Bo and Li, Yanyu and Gong, Yifan and Zhang, Kai and Tan, Hao and Kuen, Jason and Ding, Henghui and others},
-  journal={arXiv preprint arXiv:2412.12444},
-  year={2024}
+@inproceedings{shen2024lazydit,
+    title={Lazydit: Lazy learning for the acceleration of diffusion transformers},
+    author={Shen, Xuan and Song, Zhao and Zhou, Yufa and Chen, Bo and Li, Yanyu and Gong, Yifan and Zhang, Kai and Tan, Hao and Kuen, Jason and Ding, Henghui and others},
+    booktitle = {AAAI},
+    year      = {2025},
 }
 ```
